@@ -6,3 +6,4 @@
  - [ ] Ajouter un champ de recherche
  - [ ] Filtrer les produits au fur et à mesure de la saisie
  - [ ] Créer les branches (feature/titre, feature/catalogue, feature/recherche)
+ - [ ] faire css
