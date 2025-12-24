@@ -15,7 +15,7 @@ Le projet a été réalisé dans le cadre d’un travail collaboratif en respect
 ##  Réalisé par
 - **Khadija Ceurrouj**  
 - **yahia el afia**
-- 
+
 ##  Technologies utilisées
 - HTML  
 - JavaScript  
