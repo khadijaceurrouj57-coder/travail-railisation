@@ -21,7 +21,3 @@ Le projet a été réalisé dans le cadre d’un travail collaboratif en respect
 - JavaScript  
 - Git & GitHub 
 
-## ▶️ Comment exécuter le projet
-1. Cloner le dépôt GitHub :
-```bash
-git clone lien-du-depot
