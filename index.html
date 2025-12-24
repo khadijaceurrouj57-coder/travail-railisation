@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Catalogue Produits</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h1>🛒 Product Catalogue</h1>
+
+  <div class="filters">
+    <input type="text" id="search" placeholder="Search for a product...">
+
+      <select id="categoryFilter">
+        <option value="">All Catalogs</option>
+        <option value="men's clothing">Men's Clothing</option>
+        <option value="women's clothing">Women's Clothing</option>
+        <option value="jewelery">Jewelery</option>
+        <option value="electronics">Electronics</option>
+      </select>
+  </div>
+
+  <div id="products" class="product-list"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
